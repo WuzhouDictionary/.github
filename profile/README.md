@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=WuzhouDictionary)
+
 <!--
 
 **Here are some ideas to get you started:**
